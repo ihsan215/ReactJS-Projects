@@ -9,3 +9,15 @@
 The content of the series;
 
 01 - [Digital Clock](01-digital-clock/README.md) <br>
+
+<br>
+
+**To execute these projects:**
+
+```
+npm install
+```
+
+```
+npm start
+```
