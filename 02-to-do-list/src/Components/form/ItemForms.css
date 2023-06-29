@@ -1,0 +1,13 @@
+.item-input {
+  padding: 1rem;
+}
+
+.item-input__txt {
+  width: 65%;
+  height: 1.5rem;
+  margin-top: 1rem;
+}
+.item-input__submit {
+  height: 1.5rem;
+  width: 5%;
+}

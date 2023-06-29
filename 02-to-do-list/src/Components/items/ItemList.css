@@ -1,0 +1,10 @@
+.items-list {
+  position: relative;
+  width: 80%;
+  left: 10%;
+}
+
+.items {
+  text-align: left;
+  list-style-type: "";
+}

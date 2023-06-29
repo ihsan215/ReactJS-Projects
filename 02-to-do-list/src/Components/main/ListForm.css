@@ -1,0 +1,35 @@
+.container {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background: rgb(214, 218, 204);
+  background: linear-gradient(
+    90deg,
+    rgba(214, 218, 204, 1) 0%,
+    rgba(1, 172, 123, 1) 100%
+  );
+}
+
+.app-area {
+  background: #023352;
+  width: 75%;
+  height: 75%;
+  position: absolute;
+  top: 12.5%;
+  left: 12.5%;
+  text-align: center;
+  border-radius: 1rem;
+}
+
+.app-title {
+  color: aliceblue;
+  margin-top: 0.5rem;
+}
+
+.logo {
+  display: flex;
+  position: absolute;
+  width: 5rem;
+  top: 1%;
+  left: 17%;
+}
