@@ -9,6 +9,7 @@
 The content of the series;
 
 01 - [Digital Clock](01-digital-clock/README.md) <br>
+02 - [ToDoListClock](02-to-do-list/README.md) <br>
 
 <br>
 
