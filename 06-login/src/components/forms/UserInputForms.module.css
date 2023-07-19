@@ -1,0 +1,22 @@
+.form-area {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  padding: 0 15%;
+  height: 25rem;
+}
+
+.form-input {
+  height: 3rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  border-radius: 15px;
+  border: 2px solid #b0034397;
+  font: inherit;
+}
+
+.form-input:focus {
+  border-color: rgb(2, 31, 65);
+}

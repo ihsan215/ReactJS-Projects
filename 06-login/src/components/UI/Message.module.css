@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+
+.msg-area {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  width: 95%;
+}
+
+.msg-content {
+  font-size: 1.5rem;
+  color: #222222;
+}
+
+.loading {
+  border: 16px solid #b0034397;
+  border-top: 16px solid #d9d9d9;
+  border-radius: 50%;
+  width: 5rem;
+  height: 5rem;
+  position: relative;
+  left: 44.5%;
+  animation: spin 2s linear infinite;
+  margin-top: 3rem;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
