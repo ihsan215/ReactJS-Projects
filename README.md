@@ -14,6 +14,7 @@ The content of the series;
 04 - [CreateUserList](04-create-user-list/README.md) <br>
 05 - [FoodOrder](05-food-order/README.md) <br>
 06 - [Login](06-login/README.md) <br>
+07 - [Custom Hook Counter Ex](07-custom-hook-counter-ex/README.md) <br>
 
 <br>
 <br>
