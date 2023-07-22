@@ -15,6 +15,7 @@ The content of the series;
 05 - [FoodOrder](05-food-order/README.md) <br>
 06 - [Login](06-login/README.md) <br>
 07 - [Custom Hook Counter Ex](07-custom-hook-counter-ex/README.md) <br>
+08 - [Custom Hook http Request](08-custom-hook-http-request/README.md) <br>
 
 <br>
 <br>
