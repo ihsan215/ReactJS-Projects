@@ -18,6 +18,7 @@ The content of the series;
 08 - [Custom Hook http Request](08-custom-hook-http-request/README.md) <br>
 09 - [Custom Hook From Input](09-custom-hook-from-input/README.md) <br>
 10 - [Redux | Multiple State Mng](10-redux-multiple-state-mng/README.md) <br>
+11 - [Redux | Shopping-Ex](11-redux-shopping-ex/README.md) <br>
 
 **To execute these projects:**
 
